@@ -1,0 +1,1 @@
+# The-Sum-Selector-a-function-that-sum-all-numbers-in-an-array-until-it-encounters-a-negative-number.c
